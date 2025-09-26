@@ -34,6 +34,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztsumoto&layout=compact&theme=dark)
 
 <p align="center">
-  Obrigado por visitar meu perfil! 😊
+  Obrigado por visitar meu perfil!! 😊
 </p>
 
