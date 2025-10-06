@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, sou a Beatriz Tsumoto!</h1>
+<h1 align="center">🤍 Olá, sou a Beatriz Tsumoto! 🤍</h1>
 
 
 ###  Sobre mim
