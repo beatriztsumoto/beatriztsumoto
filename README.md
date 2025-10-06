@@ -1,16 +1,16 @@
 <h1 align="center"> Olá, sou a Beatriz Tsumoto!</h1>
 
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
-- 🚀 Olá! Eu sou Beatriz, estudante de Desenvolvimento de Sistemas no **Senai Valinhos**. 
-- 📖 Gosto de aprender e explorar novas tecnologias, especialmente na área de ciência de dados.
-- 🌱 Atualmente, estou focado em aprimorar minhas habilidades em **HTML**, **JavaScript** e **Back-end**. 
+- Olá! Eu sou Beatriz, estudante de Desenvolvimento de Sistemas no **Senai Valinhos**. 
+- Gosto de aprender e explorar novas tecnologias, especialmente na área de ciência de dados.
+- Atualmente, estou focado em aprimorar minhas habilidades em **HTML**, **JavaScript** e **Back-end**. 
 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+###  Tecnologias e Ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
@@ -22,7 +22,7 @@
 
 
 
-### 📫 Contato
+###  Contato
 
 - 📧 Email: [beatriz.tsumoto@aluno.senai.br](mailto:seuemail@email.com)
 - 📱 Instagram: [@itzbiat](https://www.instagram.com/itzbiat/?next=%2F)
