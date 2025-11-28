@@ -28,6 +28,7 @@
 - 📱 Instagram: [@itzbiat](https://www.instagram.com/itzbiat/?next=%2F)
 
 ---
+---
 
 ![beatriztsumoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriztsumoto&show_icons=true&theme=dark)
 
@@ -36,4 +37,3 @@
 <p align="center">
   Obrigado por visitar meu perfil!! 😊
 </p>
-
