@@ -33,7 +33,7 @@
 
 ![bea's GitHub stats]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=beatriztsumoto&theme=github_dark))
 
-![Top Langs]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatriztsumoto&theme=github_dark))
+[![bea's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=beatriztsumoto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/beatriztsumoto/github-readme-stats#gh-dark-mode-only)
 
 
 </div>
