@@ -28,12 +28,35 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ---
+##  Estatísticas do GitHub e da Conta
 
 
+![boehm's GitHub stats]((http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vboehm09&theme=github_dark))
 
-![beatriztsumoto's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatriztsumoto&show_icons=true&theme=dark)
+![Top Langs]((http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vboehm09&theme=github_dark))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztsumoto&layout=compact&theme=dark)
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vboehm09&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de visualizações do perfil" />
+  <img src="https://img.shields.io/github/followers/vboehm09?label=Seguidores&style=for-the-badge" alt="Seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/vboehm09?label=Stars&style=for-the-badge" alt="Total de stars no GitHub" />
+</p>
+
+## Contribuições
+
+<picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vboehm09/vboehm09/output/github-contribution-grid-snake-dark.svg">
+
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vboehm09&theme=github_dark" alt="Github stats" height="300" />
+</div>
+
+</picture>
 
 ---
 ---
